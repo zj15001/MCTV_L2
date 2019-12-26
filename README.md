@@ -7,9 +7,9 @@ After unzipping the supplementary file, please add all sub-directories into your
 
 - 'main.m' give a simple example to illustrate the efficiency of MCTV_L2.
 
-- 'rec_mctv2' and 'shrink_mctv2_1' are the main part of MCTV_L2.
+- 'rec_mctv2.m' and 'shrink_mctv2_1.m' are the main part of MCTV_L2.
 
-- 'rec_mctv' and 'shrink_mctv' are from paper "Convex MR brain image reconstruction via non-convex total variation minimization" by Liu et.al..
+- 'rec_mctv.m' and 'shrink_mctv.m' are from paper "Convex MR brain image reconstruction via non-convex total variation minimization" by Liu et.al..
 
 - 'mask_radial.m' is used to generate radial sampling templates. Template size and number of trajectory lines can be chosen.
 
